@@ -1,6 +1,6 @@
 # Deno
 
-**安装deno**
+**安装**
 
 **使用PowerShell（Windows）：**
 
